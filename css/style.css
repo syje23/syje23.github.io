@@ -31,5 +31,41 @@ body {
 }
 
 
+#section4 {background-color: #eed4d4!important;}
+
+
+h2{
+    font-size: 82px;
+    color: black;
+    line-height: 140px;
+}
+
+#section4 h2 {
+    font-size: 65px;
+    line-height: 85px;
+    
+    
+}
+
+.hello {
+    font-size: 90px !important;
+    color: white!important;
+    font-weight: 900;
+}
+
+
 /***** 푸터 *****/
 
+#section5 {
+    background-color: #fff !important;
+}
+
+#section5 h2 {
+    color: #eed4d4;
+}
+.hello2 {
+    font-size: 30px;
+    color: #eed4d4;
+    font-weight: 500;
+    
+}
